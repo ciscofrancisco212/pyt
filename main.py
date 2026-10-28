@@ -4,9 +4,9 @@
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press F9 to toggle the breakpoint.
+main=ctk.CTk
+main.title('Sistema Login')
+main.geometry('300x300')
 
 
 # Press the green button in the gutter to run the script.
